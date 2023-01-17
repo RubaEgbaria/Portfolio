@@ -1,0 +1,63 @@
+.body
+{
+    background-color: rgb(42, 42, 73);
+    margin: 5%;
+    padding: 2%;
+    border-radius: 5%;
+    height: 850px;
+
+    /* border: 3px solid lightgray; */
+}
+.title
+{
+    color: white;
+    text-align: center;
+}
+.headline
+{
+    text-align: center;
+    font-size: large;
+    color: lightgray;
+
+}
+.personal_img
+{
+    width: 29%;
+    position: absolute;
+    top: 34%;
+    right: 10%;
+    border-radius: 10%;
+}
+.details
+{
+    background-color: white;
+    position: absolute;
+    top: 34%;
+    left: 10%;
+    border-radius: 10%;
+    width: 45%;
+    padding: 2%;
+
+}
+.skills
+{
+    background-color: white;
+    position: absolute;
+    top: 94%;
+    right: 10%;
+    width: 29%;
+    border-radius: 10%;
+    padding: 1%;
+
+}
+h1,h5,h6
+{
+    color: rgba(18, 18, 47, 0.776);
+
+}
+h3
+{
+    text-decoration: underline;
+    color: rgb(18, 18, 47);
+
+}
